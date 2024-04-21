@@ -163,4 +163,44 @@ tbody td{
 .game-yesterday{
     background: #fff;
 }
-
+.satta-chart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #002f99;
+    color: aliceblue;
+}
+.gr-fourteen-body{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    
+}
+.one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #053e62;
+    color: #fff;
+    margin-top: 0.3rem;
+    /* position: absolute; */
+}
+.two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#3faa6f, #0e41d9 );
+    /* position: relative; */
+}
+.score{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* position: relative; */
+    
+}
+.score p{
+    padding-left: 8.4rem;
+    padding-right: 8.4rem;
+    
+}
