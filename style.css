@@ -267,5 +267,43 @@ tbody td{
     
 }
 
+ table tr th, table tr td {
+    text-align: center;
+    justify-content: center;
+    border: 1px solid
+}
+ table tr th {
+    width: 12rem;
+    background-color: #092248;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0 2px
+}
+ table tbody tr td {
+    width: 3rem;
+    height: 5rem;
+    background-color: #092248;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0 2px
+}
+.about-satta-king{
+    background: linear-gradient( #073112, #1de413);
+}
+.about-satta-king h2{
+    color: #d78b39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-satta-king p{
+    color: #fff;
+    padding: 10px;
+}
+
+
+
 
 
