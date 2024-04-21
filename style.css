@@ -146,9 +146,9 @@ tbody{
     margin-bottom: 0.1rem;
 }
 tbody th{
-    padding-left: 6.99rem;
-    padding-right: 6.99rem;
-    border: 2px solid #c33434;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    /* border: 2px solid #c33434; */
     border-radius: 50px;
     background: #fff;
     
