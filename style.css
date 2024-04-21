@@ -3,10 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    height: 100%;
-    width: 100%;
-}
+
 header{
     width: 100%;
     height: 100%;
@@ -146,8 +143,8 @@ tbody{
     margin-bottom: 0.1rem;
 }
 tbody th{
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
     /* border: 2px solid #c33434; */
     border-radius: 50px;
     background: #fff;
@@ -202,5 +199,66 @@ tbody td{
 .score p{
     padding-left: 8.4rem;
     padding-right: 8.4rem;
+
+}
+.Notice-board{
+    background: #3f0469;
+    padding-top: 1rem;
     
 }
+.Notice-board p strong{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+}
+.satta-person h2{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.satta-person p{
+    display: flex;
+    justify-content: center;
+    color: #e13c30;
+}
+.one-new p{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.timing p{
+    display: flex;
+    justify-content: center;
+    color: #e44515;
+}
+.three p{
+    display: flex;
+    justify-content: center;
+    color: #39e130;
+}
+.four p{
+    display: flex;
+    justify-content: center;
+    color: yellow;
+}
+.gr-sixth-whatsapp {
+    display: flex;
+    justify-content: space-evenly;
+}
+.gr-sixth-whatsapp a{
+    text-decoration: none;
+}
+.gr-sixth-whatsapp a p{
+    display: flex;
+    justify-content: center;
+    /* color: yellow; */
+    align-items: center;
+    border: 2px solid #fff;
+    height: 1.5rem;
+    width: 5.6rem;
+    
+}
+
+
+
