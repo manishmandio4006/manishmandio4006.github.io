@@ -154,9 +154,6 @@ tbody th{
 
 }
 tbody td{
-    display: flexbox;
-    align-items: center;
-    justify-content: center;
     border: 1px solid #000;
     background: #dc814d;
     
@@ -266,7 +263,7 @@ tbody td{
     border: 2px solid #fff;
     height: 1.5rem;
     width: 6.2rem;
-    background: red;
+    background: palevioletred;
     
 }
 
