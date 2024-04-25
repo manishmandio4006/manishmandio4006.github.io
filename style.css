@@ -131,7 +131,7 @@ section a img{
 .gd-tab{
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     border: 3px solid#000;
     border-radius: 0.8rem;
     margin-left: 1rem ;
@@ -269,10 +269,10 @@ tbody td{
 
  table tr th, table tr td {
     text-align: center;
-    justify-content: center;
+    justify-content: space-between;
     border: 1px solid
 }
- table tr th {
+  .satta-chart-2024 table tbody tr th {
     width: 12rem;
     background-color: #092248;
     color: #fff;
@@ -283,14 +283,14 @@ tbody td{
  table tbody tr td {
     width: 3rem;
     height: 5rem;
-    background-color: #092248;
+    /* background-color: #092248; */
     color: #fff;
     font-size: 10px;
     font-weight: 700;
     padding: 0 2px
 }
 .about-satta-king{
-    background: linear-gradient( #073112, #1de413);
+    background: linear-gradient(to right, #002d22, #156858, #041411);
 }
 .about-satta-king h2{
     color: #d78b39;
@@ -302,6 +302,143 @@ tbody td{
     color: #fff;
     padding: 10px;
 }
+.record-chart{
+    display: block;
+    justify-content: center;
+}
+.record-chart-2024{
+    display: block;
+}
+.record-chart-2024 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2611ec;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 2.2rem;
+}
+.record-chart-2024 ul{
+    display: block;
+    list-style-type: none;
+}
+.record-chart-2024 ul li {
+    background: #156858;
+    background: -webkit-linear-gradient(to right,#002d22,#156858,#041411);
+    background: linear-gradient(to right,#002d22,#156858,#041411);
+    border: 2px solid #fff;
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    text-align: center
+}
+.record-chart-2024 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.record-chart-2023{
+    display: block;
+}
+.record-chart-2023 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2611ec;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 2.2rem;
+}
+.record-chart-2023 ul{
+    display: block;
+    list-style-type: none;
+}
+.record-chart-2023 ul li {
+    background: #156858;
+    background: -webkit-linear-gradient(to right,#002d22,#156858,#041411);
+    background: linear-gradient(to right,#002d22,#156858,#041411);
+    border: 2px solid #fff;
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    text-align: center
+}
+.record-chart-2023 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.record-chart-2022{
+    display: block;
+}
+.record-chart-2022 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2611ec;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 2.2rem;
+}
+.record-chart-2022 ul{
+    display: block;
+    list-style-type: none;
+}
+.record-chart-2022 ul li {
+    background: #156858;
+    background: -webkit-linear-gradient(to right,#002d22,#156858,#041411);
+    background: linear-gradient(to right,#002d22,#156858,#041411);
+    border: 2px solid #fff;
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    text-align: center
+}
+.record-chart-2022 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.record-chart-2021{
+    display: block;
+}
+.record-chart-2021 h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #2611ec;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 2.2rem;
+}
+.record-chart-2021 ul{
+    display: block;
+    list-style-type: none;
+}
+.record-chart-2021 ul li {
+    background: #156858;
+    background: -webkit-linear-gradient(to right,#002d22,#156858,#041411);
+    background: linear-gradient(to right,#002d22,#156858,#041411);
+    border: 2px solid #fff;
+    padding: 5px;
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    text-align: center
+}
+.record-chart-2021 ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
 
 
 
