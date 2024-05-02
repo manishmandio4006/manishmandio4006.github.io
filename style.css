@@ -139,21 +139,21 @@ section a img{
     margin-bottom: 0.7rem;
     
 }
-tbody{
+/* tbody{
     margin-bottom: 0.1rem;
     display: inline;
-}
-tbody th{
+} */
+.gd-tab tr th{
     
-    padding-left: 7.1rem;
+    /* padding-left: 7.1rem;
     padding-right: 7.1rem;
-    /* border: 2px solid #c33434; */
+    border: 2px solid #c33434; */
     border-radius: 50px;
     background: #fff;
     
 
 }
-tbody td{
+.gd-tab tr td{
     border: 1px solid #000;
     background: #dc814d;
     
@@ -305,6 +305,7 @@ tbody td{
 .record-chart{
     display: block;
     justify-content: center;
+    align-items: center;
 }
 .record-chart-2024{
     display: block;
@@ -314,7 +315,7 @@ tbody td{
     justify-content: center;
     align-items: center;
     background: #2611ec;
-    padding-bottom: 5px;
+    /* padding-bottom: 5px; */
     margin-top: 5px;
     margin-bottom: 5px;
     color: #fff;
@@ -329,8 +330,8 @@ tbody td{
     background: -webkit-linear-gradient(to right,#002d22,#156858,#041411);
     background: linear-gradient(to right,#002d22,#156858,#041411);
     border: 2px solid #fff;
-    padding: 5px;
-    margin: 0;
+    /* padding: 5px; */
+    /* margin: 0; */
     color: #fff;
     font-size: 18px;
     text-align: center
@@ -439,7 +440,7 @@ tbody td{
     color: aliceblue;
 }
 footer{
-    background: #000;
+    background: #000000;
     /* padding: 0.2rem 5rem ; */
 }
 footer .card-body{
