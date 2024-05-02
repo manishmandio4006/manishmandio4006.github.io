@@ -272,7 +272,7 @@ tbody td{
     justify-content: space-between;
     border: 1px solid
 }
-  .satta-chart-2024 table tbody tr th {
+  .satta-chart-2024  table tbody tr th {
     width: 12rem;
     background-color: #092248;
     color: #fff;
@@ -437,6 +437,15 @@ tbody td{
 .record-chart-2021 ul li a{
     text-decoration: none;
     color: aliceblue;
+}
+footer{
+    background: #000;
+    /* padding: 0.2rem 5rem ; */
+}
+footer .card-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 
