@@ -67,7 +67,7 @@ marquee {
 @media screen and (max-width: 676px) {
     .gr-result{
         height: 5rem;
-        /* background: #5c93e7; /*/
+        
     }
     .gr-result h3 {
         font-size: 18px;
