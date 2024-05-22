@@ -68,7 +68,6 @@ marquee {
     .gr-result{
         height: 5rem;
         background: #5c93e7;
-        align-items: center;
     }
     .gr-result h3 {
         font-size: 18px;
